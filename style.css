@@ -1,0 +1,117 @@
+#bs{
+    height: 70px;
+    width: 200px;
+}
+#bars{
+    margin-left: auto;
+    
+
+}
+#bars li{
+    padding: 20px;
+    font-weight: bold;
+}
+#sign{
+    border: 1px solid green;
+  padding-left:20px;
+  padding-right: 20px;
+    background-color: green;
+    border-radius: 30px;
+    color: white;
+}
+#ip{
+    
+}
+.llv{
+    color: green;
+}
+#papa{
+    margin-top: 50px;
+    margin-left: 0px;
+}
+#mm{
+    margin-top: 20px;
+    border-radius: 30px;
+}
+#kkr{
+    height: 100px;
+    width: 70px;
+    margin-left: 20px;
+}
+#kkrb{
+    height: 100px;
+    width: 70px;
+    margin-left: 30px;
+
+}
+#kkrbs{
+    height: 100px;
+    width: 70px;
+    margin-left: 25px;
+
+}
+.part-2{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#nn{
+    
+    padding: 10px;
+    box-shadow: 1px 1px 10px gray ;
+}
+#hh h5{
+    margin-top: 20px;
+    text-align: center;
+    
+}
+#hh p{
+    text-align: center;
+}
+#vv{
+    height: 25px;
+    width: 25px;
+}
+.card-footer h6{
+    margin-right: 20px;
+}
+.part-2, .part-3, .part-4, .part-5{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#jj{
+height: 150px;
+width: 150px;
+margin-top: 50px;
+margin-left: 50px;
+}
+#uu{
+margin-top: 80px;
+
+}
+.part-5{
+    background-color: black;
+    padding-top: 50px;
+}
+#cc ul{
+
+}
+#cc li{
+    margin-right: 10px;
+    color: white;
+}
+#gn{
+   
+    margin-bottom: 100px;  
+}
+
+#kkl{
+
+    background-color: rgb(222, 245, 242);
+} 
+#aa{
+    background-color: rgb(222, 245, 242); 
+    padding: 10px;
+}
+.part-4{
+    padding-bottom: 100px;
+}
